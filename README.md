@@ -86,4 +86,4 @@ Here is the interactive dashboard screen developed in Power BI for detailed shop
 ### 1. Shopping Behavior Overview Dashboard
 *Provides a visual summary of overall KPIs, category revenue breakdowns, subscription shares, and demographic purchasing trends.*
 
-![Shopping Behavior Overview Dashboard](screenshots/shopping_behavior_dashboard.png)
+![Shopping Behavior Overview Dashboard](Customer_Shopping_Behavior_Dashboard.png)
